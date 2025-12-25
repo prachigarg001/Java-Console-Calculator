@@ -10,11 +10,6 @@ A console-based Java calculator that allows users to perform basic mathematical 
 - Multiplication (*)
 - Division (/)
 
-**Future Improvements (Optional):**
-- Advanced operations like exponential (power), factorial, logarithmic calculations, and modulus.
-- Store history of calculations.
-- Add a graphical user interface (GUI) in the future.
-
 ## How to Use
 1. Run the program in a Java IDE or terminal.
 2. Select the operation you want to perform from the menu.
