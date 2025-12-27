@@ -3,8 +3,10 @@ public class Calculator {
    
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
+     
+     char again = 'y';
 
-        
+    do {
 
         System.out.print(
         "Welcome to Java Console Calculator:\n\n" +
@@ -120,6 +122,12 @@ public class Calculator {
             default:
                 System.out.println("Invalid choice");
          }
+          System.out.print("\nDo you want to continue? (y/n): ");
+    again = sc.next().charAt(0);
+         } while (again == 'y' || again == 'Y');
+         System.out.println("Thank you for using the calculator!");
+
+         
          sc.close();
 
     }
