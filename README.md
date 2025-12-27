@@ -14,7 +14,7 @@ A console-based Java calculator that allows users to perform basic mathematical 
 - Square
 - Cube
 - Factorial
-
+ 
 ## Technologies Used
 - Java
 - Scanner class
