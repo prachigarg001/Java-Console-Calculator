@@ -44,7 +44,7 @@ public class Calculator {
 
             case 4:
             if (num2 != 0) {
-            result =(double) num1 / num2;
+            result = (double) num1 / num2;
             System.out.print("Result = " + result);
             }
             else {
