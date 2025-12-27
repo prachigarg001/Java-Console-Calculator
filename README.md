@@ -1,26 +1,53 @@
 # Java-Console-Calculator
 A console-based Java calculator that allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The program takes input from the user, performs the selected operation, and displays the result interactively.
 
-#Author - Prachi Garg
+
 
 
 ## Features
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Modulus
+- Power
+- Square
+- Cube
+- Factorial
 
-## How to Use
-1. Run the program in a Java IDE or terminal.
-2. Select the operation you want to perform from the menu.
-3. Enter the required numbers.
-4. View the result displayed on the console.
-5. Repeat the process or exit the program.
+## Technologies Used
+- Java
+- Scanner class
+- Git & GitHub
+
+## How to Run
+1. Clone the repository
+2. Open terminal in the `src` folder
+3. Compile the program:
+   javac Calculator.java
+4. Run the program:
+   java Calculator
 
 ## Skills and Concepts Learned
 - Handling user input using Scanner
-- Conditional statements (if/else or switch)
+- Conditional statements (if/else and  switch)
 - Loops for repeated operations
 - Basic arithmetic and program logic
 - Input validation (e.g., handling division by zero)
+
+## Sample Output
+Select an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter choice: 1
+Enter first number: 5
+Enter second number: 6
+Result = 11
+
+## Author
+Prachi Garg
+
+
 
