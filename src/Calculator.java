@@ -17,7 +17,7 @@ public class Calculator {
         "4. Division\n" +
         "5. Modulus\n" +
         "6. power\n" +
-        "7. Sqaure\n" +
+        "7. Sqr\n" +
         "8. Cube\n"+
         "9. factorial\n"
         );
